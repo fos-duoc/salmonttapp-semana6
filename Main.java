@@ -1,7 +1,7 @@
-package com.mycompany.salmonttapp.ui;
+package com.mycompany.salmonttapps6.ui;
 
-import com.mycompany.salmonttapp.data.GestorUnidades;
-import com.mycompany.salmonttapp.model.UnidadOperativa;
+import com.mycompany.salmonttapps6.data.GestorUnidades;
+import com.mycompany.salmonttapps6.model.UnidadOperativa;
 import java.util.ArrayList;
 
 /**

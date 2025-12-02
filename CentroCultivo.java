@@ -1,4 +1,4 @@
-package com.mycompany.salmonttapp.model;
+package com.mycompany.salmonttapps6.model;
 
 /**
  * Subclase que representa un centro de cultivo

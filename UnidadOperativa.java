@@ -1,4 +1,4 @@
-package com.mycompany.salmonttapp.model;
+package com.mycompany.salmonttapps6.model;
 
 /**
  * Clase base que representa una unidad operativa de Salmontt
